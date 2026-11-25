@@ -1,4 +1,4 @@
-I'm Amerody, a Computer Engineering student at Universidad de Zaragoza.
+I'm Amerody, a Computer Engineering student at the University of Zaragoza.
 
 I like to build things close to the metal.
 
